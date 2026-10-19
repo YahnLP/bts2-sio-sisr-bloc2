@@ -1,0 +1,9 @@
+# Utiliser LF partout (recommandé pour MkDocs/GitHub)
+* text=auto eol=lf
+
+# Markdown / YAML / scripts
+*.md  text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py  text eol=lf
+*.sh  text eol=lf

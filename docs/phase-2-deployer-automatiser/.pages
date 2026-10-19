@@ -1,0 +1,8 @@
+title: "Phase 2 – Déployer et automatiser"
+nav:
+  - README.md
+  - S06-virtualisation
+  - S07-deploiement-automatise
+  - S08-configurations-ansible
+  - S09-scripts-exploitation
+  - S10-vpn-acces-distant
