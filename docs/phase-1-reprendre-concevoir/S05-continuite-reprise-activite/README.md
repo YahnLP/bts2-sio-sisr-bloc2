@@ -5,8 +5,8 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S05 (séance 5 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
-| **Prérequis** | S01 ; sauvegarde vue en première année. |
-| **Matériel** | Machines virtuelles Debian |
+| **Prérequis** | S01, S02, S03 |
+| **Matériel** | Une machine virtuelle Debian |
 | **Compétences travaillées** | B2.1 · B2.3 · B3.4 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]
@@ -23,5 +23,34 @@
 
 ## Contenu de la séance
 
-> [!NOTE]
-> Cette séance est **en préparation** : le cours, le TP et l'aide-mémoire seront publiés après validation du plan de la deuxième année.
+| Document | Rôle |
+|---|---|
+| [Cours – Continuité et reprise d'activité](01-cours.md) | Cours |
+| [TP – Stratégie de sauvegarde et test de restauration](02-tp.md) | TP |
+| [Aide-mémoire – RTO, RPO et sauvegardes](03-aide-memoire.md) | Aide-mémoire |
+
+## Déroulé conseillé (4 h)
+
+| Durée | Activité | Format |
+|---|---|---|
+| 0 h 00 – 0 h 20 | **Accroche** : « le serveur est détruit à 16 h : que perd-on, et combien de temps est-on arrêté ? » | Oral |
+| 0 h 20 – 1 h 20 | **Cours** | Cours et questions |
+| 1 h 20 – 4 h 00 | **TP**, parties A à E, puis bilan | Binôme puis individuel |
+
+## Retour en entreprise
+
+Si ta situation le permet : **observer** comment ton entreprise traite le sujet de la séance, **documenter** en une demi-page l'écart avec le TP, ou **réaliser** une partie après accord de ton tuteur. Voir [Transfert en entreprise](../../ressources/transfert-entreprise.md). Le travail réalisé peut alimenter une [fiche de réalisation](../../ressources/fiche-realisation-professionnelle.md).
+
+## Évaluation
+
+- Compte rendu avec captures d'écran datées, nommé `RENDU-B2A2-S05-NOM.pdf`.
+- Bilan de compétences rempli en fin de séance (individuel).
+
+<details markdown="1">
+<summary>Notes pour l'enseignant</summary>
+
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
+- La procédure `tar --listed-incremental` a été testée (complète, incrémentale, restauration, empreintes identiques). Les volumes de la partie B sont fictifs.
+
+</details>

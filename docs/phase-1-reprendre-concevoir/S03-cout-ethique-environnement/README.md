@@ -5,8 +5,8 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S03 (séance 3 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
-| **Prérequis** | S02. |
-| **Matériel** | Un tableur |
+| **Prérequis** | S01, S02 |
+| **Matériel** | Un poste, un tableur |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]
@@ -23,5 +23,34 @@
 
 ## Contenu de la séance
 
-> [!NOTE]
-> Cette séance est **en préparation** : le cours, le TP et l'aide-mémoire seront publiés après validation du plan de la deuxième année.
+| Document | Rôle |
+|---|---|
+| [Cours – Coût de possession et impact environnemental](01-cours.md) | Cours |
+| [TP – Comparer trois solutions sur cinq ans](02-tp.md) | TP |
+| [Aide-mémoire – TCO et critères](03-aide-memoire.md) | Aide-mémoire |
+
+## Déroulé conseillé (4 h)
+
+| Durée | Activité | Format |
+|---|---|---|
+| 0 h 00 – 0 h 20 | **Accroche** : « la solution la moins chère à l'achat est-elle la moins chère ? » | Oral |
+| 0 h 20 – 1 h 20 | **Cours** | Cours et questions |
+| 1 h 20 – 4 h 00 | **TP**, parties A à D, puis bilan | Binôme puis individuel |
+
+## Retour en entreprise
+
+Si ta situation le permet : **observer** comment ton entreprise traite le sujet de la séance, **documenter** en une demi-page l'écart avec le TP, ou **réaliser** une partie après accord de ton tuteur. Voir [Transfert en entreprise](../../ressources/transfert-entreprise.md). Le travail réalisé peut alimenter une [fiche de réalisation](../../ressources/fiche-realisation-professionnelle.md).
+
+## Évaluation
+
+- Compte rendu avec captures d'écran datées, nommé `RENDU-B2A2-S03-NOM.pdf`.
+- Bilan de compétences rempli en fin de séance (individuel).
+
+<details markdown="1">
+<summary>Notes pour l'enseignant</summary>
+
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
+- Tous les montants sont fictifs. Les chiffres environnementaux viennent de l'étude ADEME-Arcep (dossier de presse, mars 2023) ; aucun chiffre non sourcé n'est utilisé. La loi citée est la loi n° 2021-1485 du 15 novembre 2021.
+
+</details>
