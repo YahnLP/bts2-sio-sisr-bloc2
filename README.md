@@ -22,8 +22,8 @@ Ce dépôt fait suite à [`bts1-sio-sisr-bloc2`](https://github.com/YahnLP/bts1-
 
 | Séances | État |
 |---|---|
-| S01 à S05 (phase 1) | Rédigées (fiche, cours, TP, aide-mémoire, corrigé) |
-| S06 à S19 | Fiche de séance (objectifs) ; cours et TP à rédiger après validation du plan |
+| S01 à S10 (phases 1 et 2) | Rédigées (fiche, cours, TP, aide-mémoire, corrigé) |
+| S11 à S19 | Fiche de séance (objectifs) ; cours et TP à rédiger après validation du plan |
 
 ## Cadre d'examen
 
