@@ -5,7 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S02 (séance 2 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
-| **Prérequis** | S01. |
+| **Prérequis** | S01 |
 | **Matériel** | Un poste, éditeur de texte |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |
 
@@ -24,5 +24,34 @@
 
 ## Contenu de la séance
 
-> [!NOTE]
-> Cette séance est **en préparation** : le cours, le TP et l'aide-mémoire seront publiés après validation du plan de la deuxième année.
+| Document | Rôle |
+|---|---|
+| [Cours – Cahier des charges, besoins et contrat](01-cours.md) | Cours |
+| [TP – Cabinet Delorme : cadrer le besoin et lire un contrat](02-tp.md) | TP |
+| [Aide-mémoire – Besoin, recette et responsabilités](03-aide-memoire.md) | Aide-mémoire |
+
+## Déroulé conseillé (4 h)
+
+| Durée | Activité | Format |
+|---|---|---|
+| 0 h 00 – 0 h 20 | **Accroche** : « un client t'écrit : *il nous faut un serveur* » ; que lui réponds-tu ? | Oral |
+| 0 h 20 – 1 h 10 | **Cours** | Cours et questions |
+| 1 h 10 – 4 h 00 | **TP**, parties A à F, puis bilan | Binôme puis individuel |
+
+## Retour en entreprise
+
+Si ta situation le permet : **observer** comment ton entreprise traite le sujet de la séance, **documenter** en une demi-page l'écart avec le TP, ou **réaliser** une partie après accord de ton tuteur. Voir [Transfert en entreprise](../../ressources/transfert-entreprise.md). Le travail réalisé peut alimenter une [fiche de réalisation](../../ressources/fiche-realisation-professionnelle.md).
+
+## Évaluation
+
+- Compte rendu avec captures d'écran datées, nommé `RENDU-B2A2-S02-NOM.pdf`.
+- Bilan de compétences rempli en fin de séance (individuel).
+
+<details markdown="1">
+<summary>Notes pour l'enseignant</summary>
+
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
+- Les clauses du contrat sont fictives. Les références juridiques (Code civil, art. 1128 et 1217 ; Code pénal, art. 323-1 et suivants) sont à vérifier sur Légifrance avant usage noté. Le TP dure environ 3 h 10 : prévoir de finir la partie F en fin de séance.
+
+</details>
