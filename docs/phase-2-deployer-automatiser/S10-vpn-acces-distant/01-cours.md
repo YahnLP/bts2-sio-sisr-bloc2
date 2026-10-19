@@ -34,12 +34,45 @@ Deux agences veulent partager un serveur de fichiers. Louer une liaison dédiée
 
 Le paquet d'origine (adresses privées) est **chiffré**, puis placé dans un **nouveau paquet** (adresses publiques des passerelles) qui traverse Internet.
 
-```mermaid
-flowchart LR
-    PC[Poste agence A<br/>192.168.10.100] --> GA[Passerelle A<br/>203.0.113.1]
-    GA == tunnel chiffré sur Internet ==> GB[Passerelle B<br/>203.0.113.2]
-    GB --> SRV[Serveur siège B<br/>192.168.20.1]
-```
+<figure class="graphe diagramme">
+<svg viewBox="0.00 0.00 272.10 427.60" style="max-width:363px" role="img" aria-label="Schéma" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" transform="scale(1 1) rotate(0) translate(10.8 416.8)">
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M147,-406C147,-406 12,-406 12,-406 6,-406 0,-400 0,-394 0,-394 0,-364 0,-364 0,-358 6,-352 12,-352 12,-352 147,-352 147,-352 153,-352 159,-358 159,-364 159,-364 159,-394 159,-394 159,-400 153,-406 147,-406"/>
+<text text-anchor="start" x="22" y="-384" font-family="Helvetica,sans-Serif" font-size="15.00">Poste agence A</text>
+<text text-anchor="start" x="19" y="-367" font-family="Helvetica,sans-Serif" font-size="15.00">192.168.10.100</text>
+</g>
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M132.5,-293C132.5,-293 26.5,-293 26.5,-293 20.5,-293 14.5,-287 14.5,-281 14.5,-281 14.5,-251 14.5,-251 14.5,-245 20.5,-239 26.5,-239 26.5,-239 132.5,-239 132.5,-239 138.5,-239 144.5,-245 144.5,-251 144.5,-251 144.5,-281 144.5,-281 144.5,-287 138.5,-293 132.5,-293"/>
+<text text-anchor="start" x="34.5" y="-271" font-family="Helvetica,sans-Serif" font-size="15.00">Passerelle A</text>
+<text text-anchor="start" x="33.5" y="-254" font-family="Helvetica,sans-Serif" font-size="15.00">203.0.113.1</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M79.5,-351.98C79.5,-337.19 79.5,-318.48 79.5,-302.37"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="82.65,-302.25 79.5,-293.25 76.35,-302.25 82.65,-302.25"/>
+</g>
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M132.5,-167C132.5,-167 26.5,-167 26.5,-167 20.5,-167 14.5,-161 14.5,-155 14.5,-155 14.5,-125 14.5,-125 14.5,-119 20.5,-113 26.5,-113 26.5,-113 132.5,-113 132.5,-113 138.5,-113 144.5,-119 144.5,-125 144.5,-125 144.5,-155 144.5,-155 144.5,-161 138.5,-167 132.5,-167"/>
+<text text-anchor="start" x="34.5" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00">Passerelle B</text>
+<text text-anchor="start" x="33.5" y="-128" font-family="Helvetica,sans-Serif" font-size="15.00">203.0.113.2</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="3.6" d="M79.5,-238.7C79.5,-220.54 79.5,-196.17 79.5,-176.31"/>
+<polygon fill="black" stroke="black" stroke-width="3.6" points="82.65,-176.26 79.5,-167.26 76.35,-176.26 82.65,-176.26"/>
+<text text-anchor="start" x="79.5" y="-199.6" font-family="Helvetica,sans-Serif" font-size="13.00">tunnel chiffré sur Internet</text>
+</g>
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M145.5,-54C145.5,-54 13.5,-54 13.5,-54 7.5,-54 1.5,-48 1.5,-42 1.5,-42 1.5,-12 1.5,-12 1.5,-6 7.5,0 13.5,0 13.5,0 145.5,0 145.5,0 151.5,0 157.5,-6 157.5,-12 157.5,-12 157.5,-42 157.5,-42 157.5,-48 151.5,-54 145.5,-54"/>
+<text text-anchor="start" x="20.5" y="-32" font-family="Helvetica,sans-Serif" font-size="15.00">Serveur siège B</text>
+<text text-anchor="start" x="28.5" y="-15" font-family="Helvetica,sans-Serif" font-size="15.00">192.168.20.1</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M79.5,-112.98C79.5,-98.19 79.5,-79.48 79.5,-63.37"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="82.65,-63.25 79.5,-54.25 76.35,-63.25 82.65,-63.25"/>
+</g>
+</g>
+</svg>
+</figure>
 
 ---
 
