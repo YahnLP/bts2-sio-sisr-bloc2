@@ -1,6 +1,6 @@
 # Fiche de réalisation professionnelle
 
-Pour l'épreuve E6 (administration des systèmes et des réseaux), chaque réalisation est décrite par une **fiche descriptive** (modèle officiel : annexe VII-1-A de la circulaire 2026). Tu apprends à la remplir dès la séance S10, pour qu'en fin d'année tu aies déjà plusieurs fiches prêtes.
+Pour l'épreuve E6 (administration des systèmes et des réseaux), chaque réalisation est décrite par une **fiche descriptive** (modèle officiel : annexe VII-1-A de la circulaire 2026). Tu apprends à la remplir en S15, et tu en rédiges deux en S16 et S17. Dès que tu termines un chantier, note les éléments pour la fiche : une fiche écrite le jour même vaut mieux qu'une reconstitution en fin d'année.
 
 > [!WARNING]
 > Le **modèle officiel** (fichier fourni avec la circulaire) fait foi. Cette page reprend sa structure avec nos mots ; utilise le fichier officiel remis par ton enseignant pour le rendu final.
@@ -45,16 +45,15 @@ Descriptif :
 
 ## Quelles séances alimentent une fiche ?
 
-| Réalisation candidate | Séances | Environnement réel |
+| Réalisation candidate | Séances de 2e année | Environnement réel |
 |---|---|---|
-| Réseau segmenté : VLAN, routage inter-VLAN, DHCP et DNS | S06 à S09 | Équipements de la salle ou VM routeur |
-| Domaine Active Directory, GPO, partages | S10 à S12 | VM Windows Server |
-| Serveur Linux : web, SSH, sauvegarde | S13, S16 | VM Debian |
-| Sécurisation : pare-feu, DMZ | S15 | VM pare-feu |
-| Supervision et haute disponibilité | S16 | VM |
-| Projet d'infrastructure de PME | S17, S18 | VM + plan d'adressage |
+| Interconnexion sécurisée de deux sites avec déploiement automatisé | S07, S08, S10 | VM passerelles, VM cibles |
+| Service web disponible et supervisé | S11, S12 | VM web, répartiteurs, serveur de supervision |
+| Continuité et reprise d'activité | S05, S09 | VM serveur de fichiers, scripts, sauvegarde |
+| Service sous contrat de niveau de service | S12, S14 | Ensemble des briques |
+| Situation d'entreprise (alternance) | Toutes | Environnement réel de l'entreprise, avec accord du tuteur |
 
-Pour chacune : garde **les captures, les fichiers de configuration et le compte rendu**, avec la date.
+Pour chacune : garde **les captures, les fichiers de configuration et le compte rendu**, avec la date. Les travaux de première année (réseau segmenté, domaine, pare-feu et DMZ) peuvent aussi servir de base, à condition d'être **refaits ou vérifiés** dans un environnement que tu maîtrises.
 
 > [!TIP]
 > Une fiche rédigée en 15 minutes **le jour même** vaut mieux qu'une reconstitution en juin.

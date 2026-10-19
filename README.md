@@ -13,7 +13,7 @@ Ce dépôt fait suite à [`bts1-sio-sisr-bloc2`](https://github.com/YahnLP/bts1-
 | [`docs/phase-1-reprendre-concevoir`](docs/phase-1-reprendre-concevoir/README.md) | S01 à S05 : révisions, cahier des charges et contrat, coût et impact environnemental, qualité de service, continuité et reprise d'activité |
 | [`docs/phase-2-deployer-automatiser`](docs/phase-2-deployer-automatiser/README.md) | S06 à S10 : virtualisation, déploiement automatisé, gestion des configurations, scripts d'exploitation, VPN |
 | [`docs/phase-3-exploiter-superviser`](docs/phase-3-exploiter-superviser/README.md) | S11 à S14 : supervision avancée, haute disponibilité, dépannage, service sous contrat |
-| [`docs/phase-4-realisations-e6`](docs/phase-4-realisations-e6/README.md) | S15 à S19 : deux réalisations, dossier numérique, oral, épreuve blanche E6 |
+| [`docs/phase-4-realisations-e6`](docs/phase-4-realisations-e6/README.md) | S15 à S19 : deux réalisations, dossier numérique, entraînement à l'épreuve, épreuve blanche E6 |
 | [`docs/ressources`](docs/ressources/README.md) | Référentiel, épreuve E6 et annexe II.E, fiche de réalisation, outils, glossaire, licences |
 | [`corriges`](corriges/) | Corrigés **réservés à l'enseignant** (non publiés sur le site, mais visibles dans ce dépôt) |
 | [`tools`](tools/CONVENTIONS.md) | Conventions de rédaction du site |
@@ -22,8 +22,7 @@ Ce dépôt fait suite à [`bts1-sio-sisr-bloc2`](https://github.com/YahnLP/bts1-
 
 | Séances | État |
 |---|---|
-| S01 à S14 (phases 1 à 3) | Rédigées (fiche, cours, TP, aide-mémoire, corrigé) |
-| S15 à S19 | Fiche de séance (objectifs) ; cours et TP à rédiger après validation du plan |
+| S01 à S19 (phases 1 à 4) | Rédigées (fiche, cours, TP, aide-mémoire, corrigé) |
 
 ## Cadre d'examen
 

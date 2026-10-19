@@ -24,6 +24,30 @@ Les bilans de séance renvoient aux compétences du référentiel du BTS Service
 | B2.2 | Installer, tester et déployer une solution d'infrastructure réseau |
 | B2.3 | Exploiter, dépanner et superviser une solution d'infrastructure réseau |
 
+### Le détail du bloc 2 : les 17 compétences de la grille d'évaluation de l'épreuve E6
+
+La grille d'aide à l'évaluation de l'épreuve E6 (circulaire 2026, annexe VII-5-A) détaille les trois compétences du bloc 2 en **17 compétences**. Ce sont elles que la commission regarde, et elles que la **matrice de couverture** de S17 recense. Les codes `B2.x.y` sont des **étiquettes de ce site** (le texte officiel ne les numérote pas).
+
+| Code | Compétence (intitulé de la grille) |
+|---|---|
+| B2.1.1 | Analyser un besoin exprimé et son contexte juridique |
+| B2.1.2 | Étudier l'impact d'une évolution d'un élément d'infrastructure sur le système informatique |
+| B2.1.3 | Élaborer un dossier de choix d'une solution d'infrastructure et rédiger les spécifications techniques |
+| B2.1.4 | Choisir les éléments nécessaires pour assurer la qualité et la disponibilité d'un service |
+| B2.1.5 | Maquetter et prototyper une solution d'infrastructure permettant d'atteindre la qualité de service attendue |
+| B2.1.6 | Déterminer et préparer les tests nécessaires à la validation de la solution d'infrastructure retenue |
+| B2.2.1 | Installer et configurer des éléments d'infrastructure |
+| B2.2.2 | Installer et configurer des éléments nécessaires pour assurer la continuité des services |
+| B2.2.3 | Installer et configurer des éléments nécessaires pour assurer la qualité de service |
+| B2.2.4 | Rédiger ou mettre à jour la documentation technique et utilisateur d'une solution d'infrastructure |
+| B2.2.5 | Tester l'intégration et l'acceptation d'une solution d'infrastructure |
+| B2.2.6 | Déployer une solution d'infrastructure |
+| B2.3.1 | Administrer sur site et à distance des éléments d'une infrastructure |
+| B2.3.2 | Automatiser des tâches d'administration |
+| B2.3.3 | Gérer des indicateurs et des fichiers d'activité des éléments d'une infrastructure |
+| B2.3.4 | Identifier, qualifier, évaluer et réagir face à un incident ou à un problème |
+| B2.3.5 | Évaluer, maintenir et améliorer la qualité d'un service |
+
 ## Bloc 3 – Cybersécurité des services informatiques
 
 | Code | Compétence |
