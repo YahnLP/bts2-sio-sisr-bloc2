@@ -33,13 +33,30 @@ Elles se combinent : un démarrage **PXE** lance une installation **automatisée
 
 Un fichier **preseed** contient, ligne par ligne, les réponses de l'installateur :
 
-```text
-d-i debian-installer/locale string fr_FR.UTF-8
-│   │                       │      └ la valeur
-│   │                       └ le type (string, boolean, select, password…)
-│   └ la question
-└ propriétaire (d-i = debian-installer)
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 760 200" style="max-width:760px" role="img" aria-label="Anatomie d&#x27;une ligne de preseed Debian" xmlns="http://www.w3.org/2000/svg">
+<rect x="60" y="24" width="60" height="36" rx="6" class="dg-warn"/>
+<text x="90.0" y="47.0" text-anchor="middle" class="dg-t">d-i</text>
+<rect x="134" y="24" width="200" height="36" rx="6" class="dg-ok"/>
+<text x="234.0" y="47.0" text-anchor="middle" class="dg-t">debian-installer/locale</text>
+<rect x="348" y="24" width="70" height="36" rx="6" class="dg-box"/>
+<text x="383.0" y="47.0" text-anchor="middle" class="dg-t">string</text>
+<rect x="432" y="24" width="120" height="36" rx="6" class="dg-soft"/>
+<text x="492.0" y="47.0" text-anchor="middle" class="dg-t">fr_FR.UTF-8</text>
+<line x1="90.0" y1="60" x2="90.0" y2="86" class="dg-dash"/>
+<text x="90.0" y="100" text-anchor="middle" class="dg-t">Propriétaire</text>
+<text x="90.0" y="118" text-anchor="middle" class="dg-i">d-i = debian-installer</text>
+<line x1="234.0" y1="60" x2="234.0" y2="120" class="dg-dash"/>
+<text x="234.0" y="134" text-anchor="middle" class="dg-t">La question</text>
+<text x="234.0" y="152" text-anchor="middle" class="dg-i">identifie le réglage</text>
+<line x1="383.0" y1="60" x2="383.0" y2="86" class="dg-dash"/>
+<text x="383.0" y="100" text-anchor="middle" class="dg-t">Le type</text>
+<text x="383.0" y="118" text-anchor="middle" class="dg-i">string, boolean, select, password...</text>
+<line x1="492.0" y1="60" x2="492.0" y2="120" class="dg-dash"/>
+<text x="492.0" y="134" text-anchor="middle" class="dg-t">La valeur</text>
+<text x="492.0" y="152" text-anchor="middle" class="dg-i">la réponse donnée</text>
+</svg>
+<figcaption>Une ligne : propriétaire, question, type, valeur.</figcaption>
+</figure>
 
 Il couvre : la langue et le clavier, le réseau, le miroir de paquets, les comptes, le fuseau horaire, le **partitionnement**, les paquets, le chargeur de démarrage, et une commande finale (`late_command`).
 
