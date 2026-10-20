@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - **Les commandes WireGuard et les captures n'ont pas été exécutées pendant la rédaction.** Monter le laboratoire une fois avant la séance. WireGuard a été choisi pour sa simplicité ; IPsec et OpenVPN sont présentés dans le cours.
 
 </details>

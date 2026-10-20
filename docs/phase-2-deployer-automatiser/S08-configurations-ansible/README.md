@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Le playbook a passé `--syntax-check` et l'idempotence de `template` et `lineinfile` a été testée en local ; les tâches `apt` et `service` n'ont pas été exécutées sur des cibles Debian. Un défaut a été corrigé à l'écriture (`regexp` sur `PermitRootLogin`) : voir le corrigé.
 
 </details>
