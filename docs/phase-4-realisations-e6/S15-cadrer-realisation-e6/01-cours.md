@@ -146,6 +146,7 @@ Une réalisation cadrée tient en une page :
 | **Solution visée** | Architecture, technologies, justification des choix |
 | **Compétences visées** | Lesquelles des 17 |
 | **Éléments d'annexe II.E** | Lesquels sont couverts |
+| **Mode dégradé et reprise** | Que devient le service si un élément tombe ? Procédure de reprise décrite, vérifiée (voir S05, S12) |
 | **Livrables et preuves** | Schéma, adressage, configurations, plan de tests, captures datées, documentation |
 | **Planning** | Étapes, durées, jalons (S16, S17) |
 | **Risques** | Ce qui peut empêcher d'aboutir, plan B |

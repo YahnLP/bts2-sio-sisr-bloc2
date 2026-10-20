@@ -39,6 +39,7 @@ L'expérience montre que certaines lignes restent vides :
 | **B2.1.1** Analyser un besoin et son **contexte juridique** | On part directement de la technique | Une page : besoin, contraintes juridiques (RGPD, conservation des journaux, responsabilité) |
 | **B2.1.2** Étudier l'**impact** d'une évolution | On l'a fait « dans sa tête » | Tableau des éléments touchés, risques, retour arrière |
 | **B2.1.3** **Dossier de choix** et spécifications | On a choisi sans comparer | Comparer deux options avec critères (coût, délai, qualité, éthique) |
+| **B2.1.4** Disponibilité et **mode dégradé** | On décrit la solution nominale seulement | Une page : fonctions maintenues en cas de panne, capacité restante, procédure de reprise, test de bascule daté |
 | **B2.1.6** **Préparer les tests** | On teste après coup | Plan de recette écrit **avant** |
 | **B2.2.3** **Qualité de service** | Peu de projets en ont | Priorisation d'un flux (voix, supervision), mesures avant/après (S04) |
 | **B2.2.4** **Documentation** technique et utilisateur | Fin de projet bâclée | Deux documents distincts, à jour |

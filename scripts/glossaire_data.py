@@ -96,6 +96,7 @@ DATA = [
 ("Supervision", None, "monitoring", "Surveillance continue de l'état des équipements et des services, avec alertes en cas de panne.", "S16"),
 ("Haute disponibilité", "HA", "high availability", "Conception qui permet à un service de continuer malgré la panne d'un élément.", "S16"),
 ("Répartition de charge", None, "load balancing", "Répartir les demandes entre plusieurs serveurs identiques.", "S16"),
+("Mode dégradé", None, "degraded mode", "Fonctionnement à capacité ou fonctions réduites, le temps de réparer une panne.", "S05"),
 ("Tolérance de panne", None, "fault tolerance", "Capacité d'un système à continuer de fonctionner malgré une panne.", "S16"),
 ("Perte de données maximale admise", "RPO", "recovery point objective", "La quantité de données (exprimée en temps) que l'on accepte de perdre.", "S16"),
 ("Durée maximale d'interruption admise", "RTO", "recovery time objective", "Le temps maximum acceptable pour remettre le service en marche après une panne.", "S16"),

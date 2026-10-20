@@ -39,6 +39,8 @@ Au retour de LB1 (priorité plus élevée) : il **reprend** la VIP (préemption 
 
 ## Partie E
 
+Question 4 : capacité restante 400, part non servie (600 − 400) / 600 = 33,3 %. Attendu : `maxconn` par serveur, page ​503 explicite, ou N + 1 (3 × 400 − 400 = 800 ≥ 600).
+
 SPOF restants : hôte, ​commutateur, stockage, alimentation, administrateur unique. La HA ne protège ni d'une suppression ni d'une corruption : sauvegarde (S05).
 
 ## Bilan de compétences
