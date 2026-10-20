@@ -31,7 +31,32 @@ Un serveur physique utilise rarement plus de 20 ou 30 % de ses capacités. La **
 
 ### Virtualisation et conteneurs
 
-Une **VM** embarque un système complet (son propre noyau). Un **conteneur** (Docker, LXC) partage le noyau de l'hôte : plus léger, mais moins isolé. Les deux se complètent ; ce cours traite des VM.
+Une **VM** embarque un système complet (son propre noyau). Un **conteneur** (Docker, LXC) partage le noyau de l'hôte : plus léger, mais moins isolé. Les deux se complètent ; ce cours traite surtout des VM, avec un premier contact avec les conteneurs ci-dessous.
+
+| | **Machine virtuelle** | **Conteneur** |
+|---|---|---|
+| Noyau | Propre à chaque VM | **Partagé** avec l'hôte |
+| Démarrage | Dizaines de secondes | Moins d'une seconde à quelques secondes |
+| Poids | Gigaoctets (système complet) | Mégaoctets (application et dépendances) |
+| Isolation | **Forte** (frontière de l'hyperviseur) | Plus faible (même noyau) |
+| Usage typique | Un serveur complet, un système différent de l'hôte | Une application, déployée à l'identique partout |
+
+Une **image** est le modèle en lecture seule ; un **conteneur** est une instance qui s'exécute ; un **registre** stocke les images. Les données utiles se placent dans un **volume**, car le conteneur est jetable.
+
+> [!NOTE]
+> **Premier contact (20 minutes, facultatif).** Sur une VM Debian : `sudo apt install docker.io`, puis `sudo docker run --rm hello-world` (vérifie l'installation), `sudo docker run -d --name web -p 8080:80 nginx` (serveur Web accessible sur le port 8080 de la VM), `sudo docker ps` (liste), `sudo docker logs web` (journaux), puis `sudo docker stop web && sudo docker rm web` (nettoyage). **Non testé dans cette version** ; à valider avant la séance. Les noms de paquets et d'images peuvent varier.
+
+> [!WARNING]
+> **Un conteneur n'est pas un bac à sable.** Il partage le noyau de l'hôte : une faille du noyau ou un conteneur lancé avec trop de privilèges peut compromettre l'hôte. Les droits d'accès à Docker équivalent à des droits administrateur sur la machine.
+
+**Je vérifie.** Tu dois héberger sur le même serveur un ancien logiciel qui exige un autre système d'exploitation que l'hôte et une petite application Web. Que choisis-tu pour chacun ?
+
+<details markdown="1">
+<summary>Éléments de réponse</summary>
+
+Une **VM** pour l'ancien logiciel (autre système, isolation forte) et un **conteneur** pour l'application Web (léger, déploiement reproductible, même noyau).
+
+</details>
 
 ---
 
