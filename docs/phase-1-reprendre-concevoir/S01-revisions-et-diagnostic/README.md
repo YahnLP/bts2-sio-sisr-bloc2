@@ -6,7 +6,7 @@
 | **Séance** | S01 (séance 1 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
 | **Prérequis** | Séances de bloc 2 de la première année |
-| **Matériel** | VirtualBox, machines virtuelles Debian, un poste avec le simulateur ou Packet Tracer |
+| **Matériel** | VirtualBox, machines virtuelles Debian, un poste avec le simulateur ou Packet Tracer, ou du matériel réseau réel si la salle en dispose (au choix de l'enseignant) |
 | **Compétences travaillées** | B2.1 · B2.2 · B2.3 (révision) (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]
