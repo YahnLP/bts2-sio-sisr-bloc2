@@ -37,12 +37,26 @@ La sauvegarde est **un moyen** du PRA, pas le plan lui-même : sans procédure, 
 | **RTO** | *Recovery time objective* | Combien de temps le service peut-il être **interrompu** au maximum ? | Durée (heures) |
 | **RPO** | *Recovery point objective* | Combien de **données** (exprimées en temps de travail) peut-on **perdre** au maximum ? | Durée (heures) |
 
-```text
-        dernière sauvegarde        incident              service rétabli
-  ───────────────┬───────────────────────┬───────────────────────┬─────────▶
-                 │◀──── perte de données ────▶│◀──── interruption ────▶│
-                 │      (≤ RPO)               │      (≤ RTO)           │
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 760 210" style="max-width:760px" role="img" aria-label="Frise RPO et RTO : perte de données et interruption de service" xmlns="http://www.w3.org/2000/svg">
+<line x1="30" y1="120" x2="730" y2="120" class="dg-line"/>
+<polygon points="738,120 726,114 726,126" class="dg-ah"/>
+<circle cx="160" cy="120" r="8" class="dg-dark"/>
+<text x="160" y="152" text-anchor="middle" class="dg-t">Dernière sauvegarde</text>
+<circle cx="400" cy="120" r="8" class="dg-dark"/>
+<text x="400" y="152" text-anchor="middle" class="dg-t">Incident</text>
+<circle cx="620" cy="120" r="8" class="dg-dark"/>
+<text x="620" y="152" text-anchor="middle" class="dg-t">Service rétabli</text>
+<rect x="160" y="52" width="240" height="38" rx="8" class="dg-warn"/>
+<text x="280" y="76" text-anchor="middle" class="dg-t">Perte de données (≤ RPO)</text>
+<rect x="400" y="52" width="220" height="38" rx="8" class="dg-bad"/>
+<text x="510" y="76" text-anchor="middle" class="dg-t">Interruption (≤ RTO)</text>
+<line x1="160" y1="92" x2="160" y2="112" class="dg-dash"/>
+<line x1="400" y1="92" x2="400" y2="112" class="dg-dash"/>
+<line x1="620" y1="92" x2="620" y2="112" class="dg-dash"/>
+<text x="380" y="196" text-anchor="middle" class="dg-i">Temps</text>
+</svg>
+<figcaption>Le RPO borne la perte de données, le RTO borne la durée d&#x27;interruption.</figcaption>
+</figure>
 
 - Le **RPO** détermine la **fréquence** des sauvegardes : un RPO de 24 h impose au moins une sauvegarde par jour ; un RPO de 1 h impose une sauvegarde ou une réplication toutes les heures.
 - Le **RTO** détermine la **méthode** : restaurer depuis une sauvegarde prend des heures ; basculer sur un second serveur prend des minutes.
