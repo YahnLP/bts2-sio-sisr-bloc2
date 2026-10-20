@@ -49,7 +49,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Tous les montants sont fictifs. Les chiffres environnementaux viennent de l'étude ADEME-Arcep (dossier de presse, mars 2023) ; aucun chiffre non sourcé n'est utilisé. La loi citée est la loi n° 2021-1485 du 15 novembre 2021.
 
 </details>

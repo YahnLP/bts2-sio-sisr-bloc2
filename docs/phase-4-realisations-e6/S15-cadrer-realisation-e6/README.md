@@ -49,7 +49,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Le contenu de l'épreuve est tiré de la circulaire 2026 (annexe VII) : relire la version en vigueur pour la session de la classe. La page [Épreuve E6](../../ressources/epreuve-e6.md) et le [référentiel](../../ressources/referentiel.md) ont été mis à jour avec cette séance (déroulement 30 + 20 + 60 + 20 minutes ; 17 compétences de la grille).
 
 </details>
