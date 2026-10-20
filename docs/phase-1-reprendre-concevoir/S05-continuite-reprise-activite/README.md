@@ -12,6 +12,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Le serveur tombe à 10 h : combien de temps, combien de données peut-on perdre ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Les objectifs de reprise (RPO, RTO) ont déjà été introduits en 1re année en [bloc 2 (1re année), S16 – Supervision, sauvegarde et haute disponibilité](https://yahnlp.github.io/bts1-sio-sisr-bloc2/phase-4-securiser-presenter/S16-supervision-sauvegarde-ha/) et [bloc 3 (1re année), S05 – Sauvegarde, supports amovibles et restauration](https://yahnlp.github.io/bts1-sio-sisr-bloc3/phase-1-menaces-postes-acces/S05-sauvegarde-restauration/). Ici, partir de ces notions pour construire le plan de continuité et le mode dégradé.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :
