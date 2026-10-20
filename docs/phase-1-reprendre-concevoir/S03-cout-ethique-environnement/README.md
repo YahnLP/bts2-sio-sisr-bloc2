@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Coût de possession et éthique : aucune séance ne s'appuie dessus au-delà du cas de S05 ; savoir à acquérir malgré tout (voir ci-dessous). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01, S02 |
-| **Matériel** | Un poste, un tableur |
+| **Matériel** | Un poste, un tableur ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

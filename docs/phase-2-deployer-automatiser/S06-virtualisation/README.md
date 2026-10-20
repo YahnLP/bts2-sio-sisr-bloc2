@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Virtualisation : prérequis de S07, S08 et S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 |
-| **Matériel** | VirtualBox, une VM Debian de référence |
+| **Matériel** | VirtualBox, une VM Debian de référence ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B2.1 · B2.2 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]
