@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S03 (séance 3 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Coût de possession et éthique : aucune séance ne s'appuie dessus au-delà du cas de S05 ; savoir à acquérir malgré tout (voir ci-dessous). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01, S02 |
 | **Matériel** | Un poste, un tableur |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |

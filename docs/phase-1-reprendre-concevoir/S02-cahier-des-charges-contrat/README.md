@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S02 (séance 2 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Cahier des charges et contrat : seule séance dédiée ; le cas du Cabinet Delorme sert de fil rouge à S05. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 |
 | **Matériel** | Un poste, éditeur de texte |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |

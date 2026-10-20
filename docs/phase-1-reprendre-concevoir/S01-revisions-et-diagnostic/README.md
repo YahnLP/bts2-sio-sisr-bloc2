@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S01 (séance 1 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Remise à niveau et diagnostic ; prérequis de S02 à S06. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | Séances de bloc 2 de la première année |
 | **Matériel** | VirtualBox, machines virtuelles Debian, un poste avec le simulateur ou Packet Tracer |
 | **Compétences travaillées** | B2.1 · B2.2 · B2.3 (révision) (voir [le référentiel](../../ressources/referentiel.md)) |

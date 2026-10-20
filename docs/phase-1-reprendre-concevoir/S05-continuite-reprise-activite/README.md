@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S05 (séance 5 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Continuité et reprise (RTO, RPO) : éléments de l'annexe II.E ; prérequis de S12 et S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01, S02, S03 |
 | **Matériel** | Une machine virtuelle Debian |
 | **Compétences travaillées** | B2.1 · B2.3 · B3.4 (voir [le référentiel](../../ressources/referentiel.md)) |
