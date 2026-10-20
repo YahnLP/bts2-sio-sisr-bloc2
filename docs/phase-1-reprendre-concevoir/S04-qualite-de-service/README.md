@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Qualité de service : aucune autre séance ne s'appuie sur son laboratoire ni sur ses résultats. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 (mini-laboratoire du TP) |
-| **Matériel** | VirtualBox, deux machines Debian en réseau interne `lab-s04`, `iperf3`, `iproute2` |
+| **Matériel** | VirtualBox, deux machines Debian en réseau interne `lab-s04`, `iperf3`, `iproute2` ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B2.1 · B2.3 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]
