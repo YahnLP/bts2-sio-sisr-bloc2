@@ -51,7 +51,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Séance de **chantier** : suivi individuel plutôt que cours magistral. Les [sujets de secours](04-sujets-de-secours.md) (A et B) sont fictifs et complémentaires ; ils ne couvrent pas l'ensemble de l'annexe II.E (voir l'avertissement en fin de page).
 
 </details>

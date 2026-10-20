@@ -50,7 +50,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Les codes `B2.x.y` sont des étiquettes de ce site pour les 17 compétences de la grille d'évaluation de l'épreuve E6 ; le texte officiel ne les numérote pas. L'association séance → compétences du cours est **indicative** et à valider.
 
 </details>

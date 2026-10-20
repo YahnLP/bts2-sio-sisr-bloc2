@@ -15,7 +15,6 @@ Ce dépôt fait suite à [`bts1-sio-sisr-bloc2`](https://github.com/YahnLP/bts1-
 | [`docs/phase-3-exploiter-superviser`](docs/phase-3-exploiter-superviser/README.md) | S11 à S14 : supervision avancée, haute disponibilité, dépannage, service sous contrat |
 | [`docs/phase-4-realisations-e6`](docs/phase-4-realisations-e6/README.md) | S15 à S19 : deux réalisations, dossier numérique, entraînement à l'épreuve, épreuve blanche E6 |
 | [`docs/ressources`](docs/ressources/README.md) | Référentiel, épreuve E6 et annexe II.E, fiche de réalisation, outils, glossaire, licences |
-| [`corriges`](corriges/) | Corrigés **réservés à l'enseignant** (non publiés sur le site, mais visibles dans ce dépôt) |
 | [`tools`](tools/CONVENTIONS.md) | Conventions de rédaction du site |
 
 ## Avancement

@@ -50,7 +50,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - L'organisation (commissions, planning, banque d'expressions des besoins, fiche d'observation, harmonisation) est décrite dans le corrigé de la séance. Pour une épreuve blanche, ne communiquer que le **profil** et l'appréciation, pas une note.
 
 </details>
