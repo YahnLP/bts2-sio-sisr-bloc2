@@ -1,6 +1,6 @@
 # Corrigé – S14 : Service sous contrat
 
-*Réservé à l'enseignant. Les calculs ont été refaits : 43,2 minutes ; 99,94 % ; 99,84 % ; 99,92 %, 99,83 %, 99,69 %. Cette séance réutilise les laboratoires des séances précédentes : **rien de nouveau à tester techniquement**, mais prévoir un laboratoire reconstructible (configurations versionnées, S08).*
+*Réservé à l'enseignant. Les calculs ont été refaits : 43,2 minutes ; 99,94 % ; 99,84 % ; 99,92 %, 99,83 %, 99,69 %. Cette séance ​réutilise les laboratoires des séances précédentes : **rien de nouveau à tester techniquement**, mais prévoir un laboratoire reconstructible (configurations versionnées, S08).*
 
 ## Partie A
 
@@ -8,9 +8,9 @@ Voir le tableau du TP. Exiger pour chaque ligne un critère **mesurable** et une
 
 ## Partie B
 
-- Schéma : sites, adresses, tunnel, VIP, supervision, sauvegarde. Doit permettre de reconstruire.
+- ​Schéma : sites, adresses, tunnel, VIP, supervision, sauvegarde. Doit permettre de reconstruire.
 - SPOF acceptés : valables s'ils sont **justifiés** (coût, probabilité, contournement).
-- Calcul : 99,94 % (site, hors VPN) ; 99,84 % pour le flux de l'agence (VPN unique).
+- ​Calcul : 99,94 % (site, hors VPN) ; 99,84 % pour le flux de l'agence (VPN unique).
 
 ## Partie C – Recette
 
@@ -18,23 +18,23 @@ Voir le tableau du TP. Exiger pour chaque ligne un critère **mesurable** et une
 |---|---|
 | Choix des scénarios | Au moins quatre, justifiés ; T2, T4 et T6 sont les plus instructifs |
 | Chaque verdict | Mesure + horodatage + preuve |
-| Verdict « conforme avec réserve » | Autorisé si la réserve est écrite |
+| Verdict « conforme avec réserve » | Autorisé si la réserve est ​écrite |
 
-**Pannes fréquentes.** Laboratoires incomplets (VPN ou VIP non remontés) : prévoir de les remonter à partir des dépôts Git, ou limiter la recette à trois scénarios. Une alerte non reçue vient souvent d'un média de notification non configuré.
+**Pannes fréquentes.** Laboratoires incomplets (VPN ou VIP non remontés) : prévoir de les remonter à partir des dépôts Git, ou limiter la recette à trois scénarios. Une alerte non reçue vient ​souvent d'un média de notification non configuré.
 
 ## Partie D – Rapport de service
 
 | Cas | Indisponibilité comptée | Disponibilité | Verdict |
 |---|---|---|---|
 | Exclusions respectées (I2, I4 exclues) | 34 min | 99,92 % | Respecté, pas de crédit |
-| Maintenance comptée | 74 min | 99,83 % | Non respecté : 1 tranche entamée → crédit de 5 % |
+| ​Maintenance comptée | 74 min | 99,83 % | Non respecté : 1 tranche entamée → crédit de 5 % |
 | Tout compté | 134 min | 99,69 % | Non respecté : 99,9 − 99,69 ≈ 0,21 point → 3 tranches entamées → 15 % |
 
-À faire dire : le rapport **signale I3** et sa cause ; la rédaction des exclusions décide du verdict.
+À faire dire : le rapport **signale I3** et sa cause ; la rédaction des ​exclusions décide du verdict.
 
 ## Partie E
 
-Sommaire attendu : contexte et contrat, exigences et critères, architecture et adressage, configurations, procédures, plan de recette et preuves, rapport de service, fiches d'incident, risques restants.
+Sommaire attendu : contexte et contrat, exigences et critères, architecture et adressage, configurations, procédures, plan de recette et preuves, rapport de ​service, fiches d'incident, risques restants.
 
 ## Lien avec l'épreuve E6
 

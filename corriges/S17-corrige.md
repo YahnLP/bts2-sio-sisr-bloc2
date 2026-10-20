@@ -6,13 +6,13 @@
 
 | Compétence | R1 | R2 | Couverte ? |
 |---|---|---|---|
-| B2.1.1 Besoin et contexte juridique | F | – | Oui |
+| B2.1.1 Besoin et ​contexte juridique | F | – | Oui |
 | B2.1.2 Impact d'une évolution | – | F | Oui |
 | B2.1.3 Dossier de choix | – | F | Oui |
 | B2.1.4 Qualité et disponibilité | F | – | Oui |
 | B2.1.5 Maquetter et prototyper | – | F | Oui |
 | B2.1.6 Tests à préparer | F | – | Oui |
-| B2.2.1 Installer et configurer | F | F | Oui |
+| B2.2.1 ​Installer et configurer | F | F | Oui |
 | B2.2.2 Continuité | F | – | Oui |
 | **B2.2.3 Qualité de service** | – | – | **Non** : jalon d'appoint (priorisation d'un flux dans le tunnel, mesures avant/après, S04) |
 | B2.2.4 Documentation | P | F | Oui |
@@ -24,12 +24,12 @@
 | B2.3.4 Incidents et problèmes | F | – | Oui |
 | B2.3.5 Améliorer la qualité d'un service | F | – | Oui |
 
-Annexe II.E : *authentification* et *terminal mobile* absents → à ajouter ; *détection d'intrusion* pas nécessaire (au moins une solution parmi VPN, déploiement, scripts, détection : déjà satisfait).
+Annexe II.E : *authentification* et *terminal mobile* absents → à ajouter ; *détection d'intrusion* pas ​nécessaire (au moins une solution parmi VPN, déploiement, scripts, détection : déjà satisfait).
 
 ## Ce qu'on vérifie
 
 - Chaque case « F » est reliée à une **preuve précise**.
-- Les lignes souvent vides sont traitées : B2.1.1, B2.1.2, B2.1.3, B2.1.6, B2.2.3, B2.2.4, B2.3.3, B2.3.5.
+- Les lignes souvent vides sont ​traitées : B2.1.1, B2.1.2, B2.1.3, B2.1.6, B2.2.3, B2.2.4, B2.3.3, B2.3.5.
 - Le **jalon d'appoint** est étroit, prouvé et expliqué ; l'élève sait pourquoi il est là.
 - L'audit croisé a fait apparaître au moins un point à corriger.
 
@@ -38,7 +38,7 @@ Annexe II.E : *authentification* et *terminal mobile* absents → à ajouter ; *
 - **Cases F sans preuve** : à ramener à « P ».
 - **Gonflement** : compétences déclarées mais impossibles à défendre en entretien.
 - **R2 qui répète R1** : fiche redondante, aucune compétence nouvelle.
-- **Accès des fiches** non testés depuis un autre poste.
+- **Accès des fiches** non testés depuis un ​autre poste.
 
 ## Bilan de compétences
 
