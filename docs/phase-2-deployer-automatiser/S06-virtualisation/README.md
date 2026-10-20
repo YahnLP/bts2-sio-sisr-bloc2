@@ -50,7 +50,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Les commandes `VBoxManage` n'ont pas été exécutées pendant la rédaction : à tester avant la séance. **Choix d'hyperviseur** : le TP utilise VirtualBox (type 2) comme en première année ; Proxmox VE, Hyper-V et ESXi sont présentés dans le cours. À adapter si la salle dispose d'un hyperviseur de type 1.
 
 </details>

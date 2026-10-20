@@ -50,7 +50,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - L'entraînement suit le déroulement de l'annexe VII (analyse, explicitation, **réalisation en 60 minutes**, recette). Les trois expressions des besoins du TP sont des exemples ; le TP fait aussi rédiger une expression par les élèves, pour qu'ils en comprennent le calibrage.
 
 </details>

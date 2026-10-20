@@ -51,7 +51,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Les clauses du contrat sont fictives. Les références juridiques (Code civil, art. 1128 et 1217 ; Code pénal, art. 323-1 et suivants) sont à vérifier sur Légifrance avant usage noté. Le TP dure environ 3 h 10 : prévoir de finir la partie F en fin de séance.
 
 </details>
