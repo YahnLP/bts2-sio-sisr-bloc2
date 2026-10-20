@@ -124,9 +124,34 @@ Un plan de reprise utilisable contient :
 
 La norme **ISO 22301** (systèmes de management de la continuité d'activité) formalise cette démarche dans les organisations qui s'y engagent.
 
+## 5. Le mode dégradé
+
+Entre « tout fonctionne » et « tout est arrêté » existe un état intermédiaire : le **mode dégradé**. Le service **continue à être rendu avec des fonctions réduites, une capacité plus faible ou des moyens de remplacement**, le temps de la réparation. Le référentiel demande que ces solutions de fonctionnement soient **décrites** à la conception et **vérifiées périodiquement** en exploitation.
+
+| Service | Panne | Mode dégradé possible |
+|---|---|---|
+| Messagerie | Serveur principal arrêté | Webmail de secours en lecture seule, envoi différé |
+| Serveur de fichiers | Disque en panne | Accès en lecture à la dernière copie, écriture suspendue |
+| Application métier | Base de données indisponible | Saisie sur formulaire papier, ressaisie après reprise |
+| Accès Internet | Lien principal coupé | Lien de secours (4G) réservé aux services essentiels |
+
+### Cinq questions pour décrire un mode dégradé
+
+1. **Quelles fonctions** sont maintenues, lesquelles sont suspendues ?
+2. **Quelle capacité** reste disponible (nombre d'utilisateurs, débit) ?
+3. **Qui décide** de basculer, et **à partir de quel signal** ?
+4. **Quelle durée maximale** est acceptable dans cet état ?
+5. **Comment revient-on** au mode nominal, sans perdre ni dupliquer de données ?
+
+**Exemple chiffré.** Un lien principal de 800 Mbit/s est remplacé par un lien de secours de 500 Mbit/s : la capacité restante est 500 / 800 = **62,5 %**. Si le trafic habituel est de 600 Mbit/s, le lien de secours est **saturé** : il faut décider quels flux sont priorisés (S12).
+
+> [!WARNING]
+> Un mode dégradé **non vérifié** est une hypothèse. On le **teste périodiquement** (coupure volontaire planifiée, bascule vers le secours) et on consigne le résultat : durée de bascule, fonctions réellement maintenues, écarts avec le plan.
+
 ## Ce que tu dois retenir de la séance
 
 - **PCA** : continuer pendant l'incident ; **PRA** : repartir après ; **sauvegarde** : un moyen.
 - **RTO** (durée d'arrêt maximale) et **RPO** (perte de données maximale) **dimensionnent** la solution.
 - Types : **complète**, **différentielle**, **incrémentale** ; règle **3-2-1** ; **réplication ≠ sauvegarde**.
 - **Documenter** le plan et **tester** la restauration avec **mesure du temps**.
+- **Mode dégradé** : service réduit mais rendu ; décrit (fonctions, capacité, décision, durée, retour) et **vérifié périodiquement**.

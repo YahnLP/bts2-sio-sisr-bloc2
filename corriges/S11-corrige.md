@@ -4,7 +4,7 @@
 
 ## Partie A
 
-Accepter tout indicateur proche du **service rendu**, avec deux niveaux de seuil et un nombre de mesures. Refuser « processeur > 90 % » comme unique critère d'astreinte.
+Accepter tout indicateur proche du **service rendu**, avec deux niveaux de seuil et un nombre de mesures. Refuser « processeur > 90 % » comme unique critère d'astreinte. Pour le niveau *service dégradé* : accepter une alerte sur l'arrêt d'un composant redondant alors que le ​service de test répond, avec un délai de rétablissement.
 
 ## Partie B
 

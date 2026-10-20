@@ -19,7 +19,8 @@
 1. **Définir** plan de continuité et plan de reprise d'activité, RTO et RPO ;
 2. **Construire** une stratégie de sauvegarde adaptée à des objectifs chiffrés ;
 3. **Choisir** des supports de sauvegarde en justifiant ;
-4. **Tester** une restauration et **mesurer** le temps réel de reprise.
+4. **Tester** une restauration et **mesurer** le temps réel de reprise ;
+5. **Décrire** un mode dégradé (fonctions, capacité, décision, durée, retour au nominal).
 
 ## Contenu de la séance
 

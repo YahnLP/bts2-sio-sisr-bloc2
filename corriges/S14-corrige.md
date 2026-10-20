@@ -34,6 +34,8 @@ Voir le tableau du TP. Exiger pour chaque ligne un critère **mesurable** et une
 
 ## Partie E
 
+Ligne « 3 (panne d'un nœud) » de la partie A : attendre capacité restante chiffrée, fonctions maintenues, durée maximale, alerte « service ​dégradé » et test de panne daté.
+
 Sommaire attendu : contexte et contrat, exigences et critères, architecture et adressage, configurations, procédures, plan de recette et preuves, rapport de ​service, fiches d'incident, risques restants.
 
 ## Lien avec l'épreuve E6

@@ -56,6 +56,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Mémoire vive** | RAM | *random access memory* | Mémoire rapide où l'ordinateur place ce qu'il utilise en ce moment ; elle se vide quand on éteint. | S01 |
 | **Micrologiciel de démarrage** | BIOS | *basic input output system* | Programme inscrit sur la carte mère qui démarre la machine avant le système ; ancienne génération. | S01 |
 | **Micrologiciel de démarrage moderne** | UEFI | *unified extensible firmware interface* | Remplaçant moderne du BIOS : démarrage plus rapide, disques de grande taille, démarrage sécurisé. | S01 |
+| **Mode dégradé** |  | *degraded mode* | Fonctionnement à capacité ou fonctions réduites, le temps de réparer une panne. | S05 |
 | **Modèle OSI** | OSI | *open systems interconnection* | Découpage théorique de la communication réseau en 7 couches, utilisé pour situer un problème. | S03 |
 | **Norme d'étiquetage des VLAN** | 802.1Q | *IEEE 802.1Q* | Norme qui ajoute à la trame Ethernet une étiquette indiquant son VLAN. | S06 |
 | **Notation de masque en nombre de bits** | CIDR | *classless inter-domain routing* | Écriture /24 qui indique combien de bits du début de l'adresse désignent le réseau. | S04 |

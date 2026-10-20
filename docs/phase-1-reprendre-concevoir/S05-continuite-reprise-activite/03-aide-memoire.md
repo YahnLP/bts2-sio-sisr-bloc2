@@ -55,3 +55,4 @@ Périmètre et objectifs · Rôles · Contacts (**hors** du système en panne) �
 - **Mesurer** le temps de restauration et le comparer au RTO.
 - **Protéger** les sauvegardes (chiffrement, accès restreint, copie hors ligne).
 - **Mettre à jour** le plan à chaque changement d'infrastructure.
+- **Décrire** le mode dégradé (fonctions, capacité, décideur, durée, retour) et le **vérifier** périodiquement.

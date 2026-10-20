@@ -39,7 +39,7 @@ Le RPO réel dépend de la **fréquence de lancement** : une sauvegarde manuelle
 
 ## Partie E – 3-2-1 et fiche de reprise
 
-Dans le TP : une copie, un support, aucun hors site, donc **0 sur 3** critères. Fiche de reprise attendue : déclenchement, information, localisation de la sauvegarde saine, restauration ordonnée, ​vérification, retour à la normale, contacts.
+Dans le TP : une copie, un support, aucun hors site, donc **0 sur 3** critères. Rubrique mode dégradé attendue : fonctions maintenues (lecture de la dernière copie, saisie papier), capacité, décideur, durée maximale cohérente avec le ​RTO, retour au nominal avec ressaisie contrôlée. Fiche de reprise attendue : déclenchement, information, localisation de la sauvegarde saine, restauration ordonnée, ​vérification, retour à la normale, contacts.
 
 ## Bilan de compétences
 
