@@ -4,6 +4,7 @@
 |---|---|---|
 | **Machines virtuelles** (VirtualBox, et un hyperviseur de serveur selon le laboratoire) | C'est l'**environnement réel** des TP et des réalisations E6 : Debian, Windows Server, routeurs et pare-feu virtuels. | Postes de la salle (à confirmer par l'enseignant) |
 | **Simulateur réseau et Cisco Packet Tracer** | Servent à **comprendre et s'entraîner** (VLAN, routage, QoS). Ils ne suffisent pas pour une réalisation d'épreuve. | [Simulateur de la première année](https://yahnlp.github.io/bts1-sio-sisr-bloc2/simulateur/simulateur-reseau.html) ; Packet Tracer via Cisco Networking Academy |
+| **Matériel réseau réel** | Commutateurs et routeurs de la salle, quand ils sont disponibles : à utiliser à la place de la simulation pour les rappels de réseau de la première année. Sinon simulation, au choix de l'enseignant. Les TP de deuxième année se font sur machines virtuelles et n'ont pas de variante. | [Matériel réel ou simulation (1re année)](https://yahnlp.github.io/bts1-sio-sisr-bloc2/ressources/materiel-reel/) |
 | **Wireshark** | Capture et analyse de trames. | Installé sur les postes de la salle |
 | **Git** | Versionner des fichiers de configuration et des scripts. | Postes de la salle |
 | **Ansible** | Automatiser le déploiement et la configuration de serveurs (S08). | Machine virtuelle de gestion, installée pendant le TP |
