@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S16 (séance 16 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Première réalisation E6. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S15 |
 | **Matériel** | Laboratoire ou environnement de l'entreprise |
 | **Compétences travaillées** | B2.1 · B2.2 · B2.3 (voir [le référentiel](../../ressources/referentiel.md)) |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S07 (séance 7 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Déploiement automatisé : prérequis de S08 ; une des solutions possibles de l'annexe II.E. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S06 |
 | **Matériel** | Machines virtuelles Debian, image ISO netinst, connexion Internet |
 | **Compétences travaillées** | B2.2 (voir [le référentiel](../../ressources/referentiel.md)) |

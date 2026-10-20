@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S10 (séance 10 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Connexion sécurisée entre deux sites et administration à distance : éléments de l'annexe II.E ; prérequis de S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S06 ; chiffrement vu en bloc 3 (ou rappel en séance) |
 | **Matériel** | Trois machines virtuelles Debian (deux passerelles et un poste) |
 | **Compétences travaillées** | B2.1 · B2.2 · B3.4 (voir [le référentiel](../../ressources/referentiel.md)) |

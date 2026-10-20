@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S18 (séance 18 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Dossier numérique et entraînement à l'oral. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S16, S17 |
 | **Matériel** | Dossier de la classe, deux réalisations, fiches |
 | **Compétences travaillées** | B2.1 · B2.2 · B2.3 (voir [le référentiel](../../ressources/referentiel.md)) |

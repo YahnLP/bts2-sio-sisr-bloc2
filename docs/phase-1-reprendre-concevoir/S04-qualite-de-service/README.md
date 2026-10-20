@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S04 (séance 4 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Qualité de service : aucune autre séance ne s'appuie sur son laboratoire ni sur ses résultats. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 (mini-laboratoire du TP) |
 | **Matériel** | VirtualBox, deux machines Debian en réseau interne `lab-s04`, `iperf3`, `iproute2` |
 | **Compétences travaillées** | B2.1 · B2.3 (voir [le référentiel](../../ressources/referentiel.md)) |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – bloc 2 |
 | **Séance** | S15 (séance 15 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Cadrage de la réalisation E6 : prérequis de S16. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 à S14 |
 | **Matériel** | Fiches descriptives vierges, tes comptes rendus et configurations de l'année |
 | **Compétences travaillées** | B2.1 (voir [le référentiel](../../ressources/referentiel.md)) |
